@@ -1,9 +1,9 @@
 <h1 align="center"> Hi, I'm Olena Pobehailo</h1>
 <h3 align="center"> I'm a beginner full-stack developer</h3>
 
-- 📫 How to reach me:
-  **olena.pobehailo@gmail.com**
-  <a href="https://www.linkedin.com/in/olena-pobehailo/">LinkedIn</a>
+- 📫 How to reach me:  
+  **olena.pobehailo@gmail.com**  
+  <a href="https://www.linkedin.com/in/olena-pobehailo/">LinkedIn</a>  
 
 ## My stack:
 
