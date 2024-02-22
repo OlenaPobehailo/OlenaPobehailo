@@ -1,5 +1,4 @@
-<h1 align="center"> Hi, I'm Olena Pobehailo</h1>
-<h3 align="center"> I'm a beginner full-stack developer</h3>
+<h1 align="center"> Hi, I'm Olena Pobehailo, a beginner full-stack developer</h1>
 
 - 📫 How to reach me:  
   **olena.pobehailo@gmail.com**  
