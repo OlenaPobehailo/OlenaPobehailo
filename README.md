@@ -1,8 +1,6 @@
 <h1 align="center"> Hi, I'm Olena Pobehailo, a beginner full-stack developer</h1>
 
-- 📫 How to reach me:  
-  **olena.pobehailo@gmail.com**  
-  <a href="https://www.linkedin.com/in/olena-pobehailo/">LinkedIn</a>  
+- 📫 How to reach me: **olena.pobehailo@gmail.com**  <a href="https://www.linkedin.com/in/olena-pobehailo/">LinkedIn</a>  
 
 ## My stack:
 
